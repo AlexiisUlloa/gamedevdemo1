@@ -1,0 +1,4 @@
+repository "Base juego@Odas55@cloud"
+  path "/"
+    br "/main"
+    co "/main"
